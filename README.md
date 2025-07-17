@@ -1,10 +1,11 @@
 # INTERNSHIP-PROJECT
 
 
-📘** Robust OCR for Skewed and Distorted Text in Agro-Product Labels**
+📘**Robust OCR for Skewed and Distorted Text in Agro-Product Labels**
+
 This repository contains the research, dataset summary, and implementation overview for an AI-powered OCR system designed to recognize and extract text from skewed, rotated, and distorted agro-product labels under challenging real-world conditions.
 
-**🔍 Project Overview**
+🔍 **Project Overview**
 Agro-product labels often contain critical information like expiry dates, usage instructions, and certification marks. However, these labels are frequently photographed in suboptimal conditions—skewed angles, poor lighting, and varying fonts/languages—making OCR difficult.
 
 This project addresses these challenges by developing an end-to-end deep learning OCR pipeline using:
